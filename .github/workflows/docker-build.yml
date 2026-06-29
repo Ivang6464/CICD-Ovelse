@@ -11,8 +11,8 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: cicdexample
-  GITHUB_ACTOR: ivang6464
+  IMAGE_NAME: "cicdexample"
+  GITHUB_ACTOR: "ivang6464"
 
 
 jobs:
