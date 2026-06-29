@@ -15,7 +15,7 @@ jobs:
         DOTNET_VERSION: "10.0.x"
         SOLUTION_PATH: "CICD-Template.slnx"
     
-    runs-on: ubuntu-latest
+        runs-on: ubuntu-latest
         
         steps:
             - name: Get Code
